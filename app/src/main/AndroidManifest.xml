@@ -33,7 +33,7 @@
         </provider>
         <meta-data
             android:name="com.naver.maps.map.NCP_KEY_ID"
-            android:value="gpytpb0nju" />
+            android:value="swtcs5zoob" />
         <activity
             android:name=".SplashActivity"
             android:exported="true"
