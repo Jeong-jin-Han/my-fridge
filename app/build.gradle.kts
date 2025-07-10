@@ -9,7 +9,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.MadCampProj1_ver2"
+        applicationId = "com.example.my_fridge"
         minSdk = 31
         targetSdk = 34
         versionCode = 1

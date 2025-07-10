@@ -83,6 +83,7 @@
                 android:paddingTop="5dp"
                 android:layout_marginHorizontal="30dp"
                 android:fontFamily="@font/b7"
+                android:gravity="center"
                 android:text="재료들 표시"
                 android:textSize="18sp"/>
 
