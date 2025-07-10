@@ -20,6 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MadCampProj1_ver2"
+rootProject.name = "my-fridge"
 include(":app")
  

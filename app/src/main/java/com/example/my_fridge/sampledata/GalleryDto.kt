@@ -1,0 +1,12 @@
+package com.example.my_fridge.sampledata
+
+data class GalleryDto(
+    val id: Int,
+    val date: String,
+    val memberId: Int,
+    val title: String,
+    val abstract: String,
+    val imagePath: String? = null,
+    val image: Int,
+    val ingredients: List<Int> = emptyList()
+)

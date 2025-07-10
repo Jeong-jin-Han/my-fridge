@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.MadCampProj1_ver2"
+    namespace = "com.example.my_fridge"
     compileSdk = 35
 
     defaultConfig {
